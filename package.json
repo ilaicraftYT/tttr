@@ -1,0 +1,29 @@
+{
+  "name": "tttr",
+  "version": "1.0.0",
+  "description": "A TicTacToe/3-in-a-row engine",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docgen": "jsdoc ./src/ -d docs/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlaicraftYT/tttr.git"
+  },
+  "keywords": [
+    "tictactoe",
+    "ttt",
+    "tictactoe.js",
+    "threeinarow"
+  ],
+  "author": "ilai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IlaicraftYT/tttr/issues"
+  },
+  "homepage": "https://github.com/IlaicraftYT/tttr#readme",
+  "devDependencies": {
+    "jsdoc": "^4.0.2"
+  }
+}
