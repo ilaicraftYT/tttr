@@ -1,6 +1,7 @@
 # TTTR
 
 A (not so) basic engine for playing TicTacToe.
+Just because i was bored, lol.
 
 ## Usage
 
